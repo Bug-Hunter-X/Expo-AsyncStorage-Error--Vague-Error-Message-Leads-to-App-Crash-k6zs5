@@ -1,0 +1,1 @@
+While building an Expo managed workflow app, I encountered an error related to the usage of AsyncStorage. The error message was vague and didn't pinpoint the exact issue. The application would crash without providing specific details about the AsyncStorage operation that failed.
